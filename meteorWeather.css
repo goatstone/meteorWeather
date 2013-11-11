@@ -1,0 +1,36 @@
+body{
+    background-color: #aaa;
+    margin: 0;
+    font-size: .9em;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: .9em;
+    background-color: #fff;
+    margin: 0;
+    padding: 5px;
+    text-align: left;
+}
+#map {
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    visibility: hidden;
+}
+.find_div{
+    font-size: .9em;
+    font-family: Arial, sans-serif;
+    background-color: #eee;
+    padding: 5px;
+    text-align: left;
+}
+#searchResultsDiv div{
+    font-size: .8em;
+    background-color: #eee;
+    padding: 3px;
+    margin: 1px;
+    cursor: pointer;
+    text-align: left;
+
+}
