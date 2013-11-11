@@ -6,10 +6,15 @@ The Meteor Framework and OpenLayers Maps used for an application that finds weat
 Posted at:
 http://goatstone.meteor.com/
 
+
 Usage:
+
 1. Enter a city name in the input box, London, Paris, Cleveland, Munich
+
 2. A listing of one or more cities should appear, if the city name is found.
+
 3. Click on a city listing to view a weather map of the city.
+
 
 The service used to find the city is from Open Weather Map:
 http://openweathermap.org/
